@@ -1,0 +1,6 @@
+C:\Users\Rafael Miceli\Documents\GitHub\SabadoTenDojo\ConsoleAppIsASquareARectangle\ConsoleAppIsASquareARectangle\bin\Debug\ConsoleAppIsASquareARectangle.exe.config
+C:\Users\Rafael Miceli\Documents\GitHub\SabadoTenDojo\ConsoleAppIsASquareARectangle\ConsoleAppIsASquareARectangle\obj\Debug\ConsoleAppIsASquareARectangle.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Miceli\Documents\GitHub\SabadoTenDojo\ConsoleAppIsASquareARectangle\ConsoleAppIsASquareARectangle\bin\Debug\ConsoleAppIsASquareARectangle.exe
+C:\Users\Rafael Miceli\Documents\GitHub\SabadoTenDojo\ConsoleAppIsASquareARectangle\ConsoleAppIsASquareARectangle\bin\Debug\ConsoleAppIsASquareARectangle.pdb
+C:\Users\Rafael Miceli\Documents\GitHub\SabadoTenDojo\ConsoleAppIsASquareARectangle\ConsoleAppIsASquareARectangle\obj\Debug\ConsoleAppIsASquareARectangle.exe
+C:\Users\Rafael Miceli\Documents\GitHub\SabadoTenDojo\ConsoleAppIsASquareARectangle\ConsoleAppIsASquareARectangle\obj\Debug\ConsoleAppIsASquareARectangle.pdb
