@@ -1,0 +1,17 @@
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\ContactManagerAPI.UnitTests.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\ContactManagerAPI.UnitTests.pdb
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\ContactManagerAPI.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\xunit.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\System.Web.Http.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\ContactManagerAPI.pdb
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\xunit.xml
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\System.Web.Http.xml
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\obj\Debug\ContactManagerAPI.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\obj\Debug\ContactManagerAPI.UnitTests.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\obj\Debug\ContactManagerAPI.UnitTests.pdb
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\xunit.extensions.dll
+C:\Users\Rafael\Documents\GitHub\SabadoTenDojo\ContactManager.AcceptanceTests\ContactManagerAPI.UnitTests\bin\Debug\xunit.extensions.xml

@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Xunit;
-using System.Web.Http.SelfHost;
 using System.Net.Http;
-using System.Configuration;
-using System.Dynamic;
-using Xunit.Extensions;
 
 namespace ContactManager.AcceptanceTests
 {    
